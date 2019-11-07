@@ -8,4 +8,4 @@ add ore changes
 
 this is a new chage for a forked repo
 
-my own chage
+my own change
