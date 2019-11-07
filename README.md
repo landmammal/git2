@@ -8,3 +8,32 @@ add ore changes
 
 
 - this is a new change from a forked repo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*this is Jacob Murphy*
